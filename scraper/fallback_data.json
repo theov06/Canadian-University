@@ -1,0 +1,46 @@
+[
+  {
+    "university": "University of Toronto",
+    "city": "Toronto",
+    "province": "Ontario",
+    "programs": ["English", "Political Science"],
+    "tuition_international": 62250,
+    "ielts": 6.5,
+    "has_coop": false,
+    "source_url": "https://www.utoronto.ca",
+    "last_updated": "2025-01-15"
+  },
+  {
+    "university": "University of British Columbia",
+    "city": "Vancouver",
+    "province": "British Columbia",
+    "programs": ["Psychology", "Sociology"],
+    "tuition_international": 44091,
+    "ielts": 6.5,
+    "has_coop": true,
+    "source_url": "https://www.ubc.ca",
+    "last_updated": "2025-01-15"
+  },
+  {
+    "university": "McGill University",
+    "city": "Montreal",
+    "province": "Quebec",
+    "programs": ["Philosophy", "Economics"],
+    "tuition_international": 27100,
+    "ielts": 6.5,
+    "has_coop": false,
+    "source_url": "https://www.mcgill.ca",
+    "last_updated": "2025-01-15"
+  },
+  {
+    "university": "University of Saskatchewan",
+    "city": "Saskatoon",
+    "province": "Saskatchewan",
+    "programs": ["Indigenous Studies"],
+    "tuition_international": 18040,
+    "ielts": 6.5,
+    "has_coop": false,
+    "source_url": "https://www.usask.ca",
+    "last_updated": "2025-01-15"
+  }
+]

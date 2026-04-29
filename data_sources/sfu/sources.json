@@ -1,0 +1,82 @@
+{
+  "university": "Simon Fraser University",
+  "short_name": "SFU",
+  "country": "Canada",
+  "official_website": "https://www.sfu.ca",
+  "campuses": {
+    "burnaby": {
+      "name": "SFU Burnaby",
+      "city": "Burnaby",
+      "province": "British Columbia",
+      "sources": {
+        "ba_program": {
+          "url": "https://www.sfu.ca/students/calendar/2026/summer/faculties-research/faculty-arts-social-sciences/ba-fass.html",
+          "description": "BA program requirements from SFU Calendar",
+          "last_checked": "2026-04-29"
+        },
+        "ba_majors_minors": {
+          "url": "https://www.sfu.ca/fass/undergrad/advising-and-resources/plan-your-program/ba-majors-minors.html",
+          "description": "BA majors, minors, joint majors, and degree options",
+          "last_checked": "2026-04-29"
+        },
+        "departments_programs": {
+          "url": "https://www.sfu.ca/fass/departments-programs.html",
+          "description": "FASS departments and programs overview",
+          "last_checked": "2026-04-29"
+        },
+        "tuition_fees": {
+          "url": "https://www.sfu.ca/students/calendar/2026/summer/fees-and-regulations/tuition-fees.html",
+          "description": "Undergraduate tuition fees from SFU Calendar",
+          "last_checked": "2026-04-29"
+        },
+        "fees_scholarships": {
+          "url": "https://www.sfu.ca/students/admission/fees-scholarships.html",
+          "description": "Estimated tuition and expenses for one academic year",
+          "last_checked": "2026-04-29"
+        },
+        "typical_costs": {
+          "url": "https://www.sfu.ca/students/financial-aid/plan/typical-costs.html",
+          "description": "Typical costs per term for students",
+          "last_checked": "2026-04-29"
+        },
+        "english_requirements": {
+          "url": "https://www.sfu.ca/students/admission/admission-requirements/english-language-requirement.html",
+          "description": "English language proficiency requirements — IELTS, TOEFL, PTE, CAEL, Cambridge, Duolingo minimums",
+          "last_checked": "2026-04-29"
+        },
+        "admission_requirements": {
+          "url": "https://www.sfu.ca/students/calendar/2026/summer/fees-and-regulations/admission.html",
+          "description": "General undergraduate admission requirements",
+          "last_checked": "2026-04-29"
+        },
+        "international_requirements": {
+          "url": "https://www.sfu.ca/students/admission/admission-requirements/international-highschool/country.html",
+          "description": "Country-specific international admission requirements",
+          "last_checked": "2026-04-29"
+        },
+        "application_timeline": {
+          "url": "https://www.sfu.ca/students/admission/apply/timeline-and-evaluation.html",
+          "description": "Application timeline and evaluation process",
+          "last_checked": "2026-04-29"
+        },
+        "apply": {
+          "url": "https://www.sfu.ca/students/admission/apply.html",
+          "description": "Application portal",
+          "last_checked": "2026-04-29"
+        }
+      }
+    },
+    "surrey": {
+      "name": "SFU Surrey",
+      "city": "Surrey",
+      "province": "British Columbia",
+      "sources": {}
+    },
+    "vancouver": {
+      "name": "SFU Vancouver",
+      "city": "Vancouver",
+      "province": "British Columbia",
+      "sources": {}
+    }
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "university": "University of British Columbia",
+  "country": "Canada",
+  "official_website": "https://www.ubc.ca",
+  "campuses": {
+    "vancouver": {
+      "name": "UBC Vancouver",
+      "city": "Vancouver",
+      "province": "British Columbia",
+      "sources": {
+        "tuition_per_credit": {
+          "url": "https://consultations.students.ubc.ca/vancouver-international-undergraduate-tuition-2025-26/",
+          "description": "Proposed 2025/26 international undergraduate tuition for Vancouver campus",
+          "last_checked": "2026-04-29"
+        },
+        "tuition_overview": {
+          "url": "https://students.ubc.ca/finances/tuition-fees/undergraduate-tuition-fees/",
+          "description": "General undergraduate tuition fee information",
+          "last_checked": "2026-04-29"
+        },
+        "tuition_calendar": {
+          "url": "https://vancouver.calendar.ubc.ca/fees/tuition-fees/undergraduate",
+          "description": "Academic calendar per-credit tuition rates",
+          "last_checked": "2026-04-29"
+        },
+        "ba_requirements": {
+          "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/credit-requirements-and-regulations",
+          "description": "BA credit requirements and regulations",
+          "last_checked": "2026-04-29"
+        },
+        "ba_programs_calendar": {
+          "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts",
+          "description": "Official Academic Calendar listing of all 70+ BA majors, dual degrees, and program options at UBC Vancouver",
+          "last_checked": "2026-04-29"
+        },
+        "environment_sustainability": {
+          "url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts/environment-and-sustainability",
+          "description": "Environment and Sustainability BA major details",
+          "last_checked": "2026-04-29"
+        },
+        "ba_degree_info": {
+          "url": "https://arts.ubc.ca/degree-planning/degree-requirements/bachelor-of-arts/",
+          "description": "BA degree requirements overview from Faculty of Arts",
+          "last_checked": "2026-04-29"
+        },
+        "cost_calculator": {
+          "url": "https://you.ubc.ca/financial-planning/cost/",
+          "description": "First-year cost estimator and financial planning",
+          "last_checked": "2026-04-29"
+        },
+        "program_fees": {
+          "url": "https://vancouver.calendar.ubc.ca/fees/program-course-and-faculty-fees",
+          "description": "Program, course, and faculty-specific fees",
+          "last_checked": "2026-04-29"
+        },
+        "fee_policies": {
+          "url": "https://vancouver.calendar.ubc.ca/fees/policies-fees",
+          "description": "General fee policies and instalment information",
+          "last_checked": "2026-04-29"
+        },
+        "english_requirements": {
+          "url": "https://vancouver.calendar.ubc.ca/admissions/english-language-admission-standard/english-language-proficiency-tests",
+          "description": "Official English language proficiency test requirements from UBC Academic Calendar — IELTS, TOEFL, PTE, Duolingo, CAEL, Cambridge minimum scores",
+          "last_checked": "2026-04-29"
+        },
+        "application_deadlines": {
+          "url": "https://vancouver.calendar.ubc.ca/admissions/undergraduate-application-and-document-deadlines",
+          "description": "Application and document deadlines",
+          "last_checked": "2026-04-29"
+        },
+        "dates_deadlines": {
+          "url": "https://you.ubc.ca/applying-ubc/dates-deadlines/",
+          "description": "Key dates and deadlines for applicants",
+          "last_checked": "2026-04-29"
+        },
+        "general_requirements": {
+          "url": "https://you.ubc.ca/applying-ubc/requirements/",
+          "description": "General admission requirements",
+          "last_checked": "2026-04-29"
+        },
+        "housing_fees": {
+          "url": "https://vancouver.housing.ubc.ca/applications/fees-payments/",
+          "description": "On-campus housing fees",
+          "last_checked": "2026-04-29"
+        }
+      }
+    },
+    "okanagan": {
+      "name": "UBC Okanagan",
+      "city": "Kelowna",
+      "province": "British Columbia",
+      "sources": {
+        "academic_calendar": {
+          "url": "https://okanagan.calendar.ubc.ca/",
+          "description": "UBC Okanagan academic calendar",
+          "last_checked": "2026-04-29"
+        },
+        "tuition_per_credit": {
+          "url": "https://consultations.students.ubc.ca/okanagan-international-undergraduate-tuition-2025-26/",
+          "description": "Proposed 2025/26 international undergraduate tuition for Okanagan campus",
+          "last_checked": "2026-04-29"
+        },
+        "tuition_calendar": {
+          "url": "https://okanagan.calendar.ubc.ca/fees/tuition-fees/undergraduate",
+          "description": "Academic calendar per-credit tuition rates",
+          "last_checked": "2026-04-29"
+        },
+        "program_fees": {
+          "url": "https://okanagan.calendar.ubc.ca/fees/program-course-and-faculty-fees",
+          "description": "Program, course, and faculty-specific fees",
+          "last_checked": "2026-04-29"
+        },
+        "application_fees": {
+          "url": "https://okanagan.calendar.ubc.ca/fees/application-and-administrative-fees",
+          "description": "Application and administrative fees",
+          "last_checked": "2026-04-29"
+        },
+        "student_finance": {
+          "url": "https://students.ok.ubc.ca/courses-money-enrolment/finances/tuition-and-fees/",
+          "description": "Student finance and tuition information",
+          "last_checked": "2026-04-29"
+        },
+        "admissions": {
+          "url": "https://ok.ubc.ca/admissions/",
+          "description": "UBC Okanagan admissions portal",
+          "last_checked": "2026-04-29"
+        },
+        "english_requirements": {
+          "url": "https://okanagan.calendar.ubc.ca/admissions/english-language-admission-standard/english-language-proficiency-tests-and-programs",
+          "description": "Official English language proficiency test requirements and programs from UBC Okanagan Academic Calendar — IELTS, TOEFL, PTE, Duolingo, CAEL, Cambridge minimum scores plus English Foundation Program pathways",
+          "last_checked": "2026-04-29"
+        },
+        "ba_requirements": {
+          "url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs/degree-requirements-students-who-entered-program-20212022-20252026",
+          "description": "BA degree requirements for 2021-2026 entrants",
+          "last_checked": "2026-04-29"
+        },
+        "undergraduate_programs": {
+          "url": "https://fass.ok.ubc.ca/programs/undergraduate/",
+          "description": "Faculty of Arts and Social Sciences undergraduate programs",
+          "last_checked": "2026-04-29"
+        },
+        "ba_programs_calendar": {
+          "url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs",
+          "description": "Official Academic Calendar listing of all BA majors, minors, co-op, and degree options at UBC Okanagan",
+          "last_checked": "2026-04-29"
+        },
+        "faculty_overview": {
+          "url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences",
+          "description": "Faculty of Arts and Social Sciences overview including all degree programs (BA, Indigenous language fluency degrees, post-baccalaureate diplomas)",
+          "last_checked": "2026-04-29"
+        },
+        "application_deadlines": {
+          "url": "https://okanagan.calendar.ubc.ca/admissions/application-and-document-deadlines/application-deadlines-undergraduate-degree-programs",
+          "description": "Application deadlines for undergraduate programs",
+          "last_checked": "2026-04-29"
+        }
+      }
+    }
+  }
+}

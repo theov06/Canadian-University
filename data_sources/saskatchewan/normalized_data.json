@@ -1,0 +1,133 @@
+{
+  "university": {
+    "name": "University of Saskatchewan",
+    "short_name": "USask",
+    "country": "Canada",
+    "official_website": "https://www.usask.ca",
+    "description": "Saskatchewan's largest university, located in Saskatoon on Treaty 6 Territory. The College of Arts and Science is the only college in Canada to offer courses in sciences, social sciences, humanities, and fine arts under one roof."
+  },
+  "campuses": [
+    {
+      "name": "University of Saskatchewan",
+      "city": "Saskatoon",
+      "province": "Saskatchewan",
+      "city_size": "small",
+      "programs": [
+        {
+          "name": "Bachelor of Arts (General)",
+          "slug": "ba-general-usask",
+          "degree_type": "BA",
+          "faculty": "College of Arts and Science",
+          "description": "A 4-year degree in Canada's only college combining sciences, social sciences, humanities, and fine arts. 120 credit units required. Wide range of majors from Anthropology to Studio Art, with many certificate add-ons available. Affordable tuition compared to BC universities.",
+          "duration_years": 4,
+          "total_credits": 120,
+          "has_coop": false,
+          "program_url": "https://programs.usask.ca/arts-and-science/programs.php",
+          "majors_available": [
+            "Anthropology", "Art History", "Classical, Medieval and Renaissance Studies",
+            "Drama", "Economics", "English", "Environment and Society",
+            "French", "Gender, Sexualities and Social Justice",
+            "Health Studies", "History", "Indigenous Studies",
+            "International Studies", "Linguistics", "Mathematics",
+            "Modern Languages", "Music", "Philosophy",
+            "Political Studies", "Psychology", "Regional and Urban Planning",
+            "Religion and Culture", "Sociology", "Studio Art"
+          ],
+          "career_outcomes": ["Policy Analyst", "Educator", "Social Worker", "Researcher", "Community Developer", "Writer"],
+          "tuition": {
+            "student_type": "international",
+            "currency": "CAD",
+            "per_credit_amount": 1251.10,
+            "yearly_estimate": 37878,
+            "total_program_estimate": 151512,
+            "academic_year": "2025-2026",
+            "notes": "Arts and Science - Arts estimate for 30 credit units (full course load). Category 1 rate: $1,251.10 per credit unit for international students.",
+            "source_url": "https://admissions.usask.ca/money/tuition.php"
+          },
+          "requirements": [
+            {
+              "type": "ielts",
+              "value": "6.5 overall, minimum 6.0 in each component (Reading, Listening, Speaking, Writing)",
+              "ielts_overall": 6.5,
+              "ielts_min_band": 6.0,
+              "source_url": "https://admissions.usask.ca/requirements/english-language-proficiency.php"
+            },
+            {
+              "type": "toefl",
+              "value": "TOEFL iBT new scale (1-6): 4.5 overall, min 4.0 each component. Old scale (1-120, taken before Jan 21 2026): 86 overall, min 19 each.",
+              "toefl_ibt": 86,
+              "toefl_new_scale": 4.5,
+              "notes": "Old 0-120 scale scores accepted if taken before January 21, 2026 and within 2 years",
+              "source_url": "https://admissions.usask.ca/requirements/english-language-proficiency.php"
+            },
+            {
+              "type": "pte",
+              "value": "Overall 63, minimum 59 in each skill (Reading, Listening, Speaking, Writing)",
+              "pte_overall": 63,
+              "pte_min_section": 59,
+              "source_url": "https://admissions.usask.ca/requirements/english-language-proficiency.php"
+            },
+            {
+              "type": "cael",
+              "value": "Overall 70, minimum 60 in each component (Reading, Listening, Speaking, Writing)",
+              "cael_overall": 70,
+              "cael_min_section": 60,
+              "source_url": "https://admissions.usask.ca/requirements/english-language-proficiency.php"
+            },
+            {
+              "type": "duolingo",
+              "value": "Overall 120, minimum 100 in each area (Literacy, Conversation, Comprehension, Production). Effective January 1, 2026.",
+              "det_overall": 120,
+              "det_min_section": 100,
+              "source_url": "https://admissions.usask.ca/requirements/english-language-proficiency.php"
+            },
+            {
+              "type": "cambridge",
+              "value": "Overall score of 176 (C1 Advanced)",
+              "cambridge_score": 176,
+              "source_url": "https://admissions.usask.ca/requirements/english-language-proficiency.php"
+            },
+            {
+              "type": "test_validity",
+              "value": "All scores must be from one exam date. Tests valid for 2 years from test date. Must be valid at start of first term.",
+              "source_url": "https://admissions.usask.ca/requirements/english-language-proficiency.php"
+            },
+            {
+              "type": "gpa",
+              "value": "Minimum 70% average on five-subject high school average",
+              "min_gpa": null,
+              "source_url": "https://admissions.usask.ca/requirements/deadlines.php"
+            },
+            {
+              "type": "application_deadline",
+              "value": "Rolling admissions; apply early for best consideration",
+              "source_url": "https://admissions.usask.ca/apply/index.php"
+            }
+          ]
+        }
+      ],
+      "living_costs": {
+        "yearly_estimate": 13200,
+        "monthly_estimate": 1100,
+        "housing_monthly": 650,
+        "food_monthly": 300,
+        "transport_monthly": 50,
+        "other_monthly": 100,
+        "notes": "Saskatoon has significantly lower living costs than Vancouver or Toronto. On-campus residence available. Estimates based on typical student budgets for Saskatoon.",
+        "source_url": "https://admissions.usask.ca/money/tuition.php"
+      },
+      "fees": [
+        {
+          "fee_name": "Student Fees",
+          "amount": null,
+          "currency": "CAD",
+          "period": "yearly",
+          "notes": "Student fees vary; included in tuition estimate on admissions page",
+          "source_url": "https://students.usask.ca/money/tuition-fees/undergraduate-tuition.php"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-04-29",
+  "data_notes": "Tuition from USask admissions page for 2025-2026. English proficiency from official admissions requirements. TOEFL has transitioned to new 1-6 scale; old 0-120 scores accepted if taken before Jan 21, 2026. Living costs are estimates for Saskatoon."
+}

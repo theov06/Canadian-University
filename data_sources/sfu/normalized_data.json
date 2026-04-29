@@ -1,0 +1,162 @@
+{
+  "university": {
+    "name": "Simon Fraser University",
+    "short_name": "SFU",
+    "country": "Canada",
+    "official_website": "https://www.sfu.ca",
+    "description": "A leading Canadian research university with three Metro Vancouver campuses. Known for its co-op programs, interdisciplinary approach, and the distinctive Burnaby Mountain campus."
+  },
+  "campuses": [
+    {
+      "name": "SFU Burnaby",
+      "city": "Burnaby",
+      "province": "British Columbia",
+      "city_size": "large",
+      "programs": [
+        {
+          "name": "Bachelor of Arts (General)",
+          "slug": "ba-general-sfu-burnaby",
+          "degree_type": "BA",
+          "faculty": "Faculty of Arts and Social Sciences",
+          "description": "A flexible 4-year degree requiring 120 units with 20+ major options. Students can pursue a single major, joint major, honours, or combine two minors. Strong co-op program available. FASS breadth, writing, and quantitative requirements ensure well-rounded education.",
+          "duration_years": 4,
+          "total_credits": 120,
+          "sfu_credits_minimum": 60,
+          "upper_division_credits": 45,
+          "fass_credits_minimum": 60,
+          "has_coop": true,
+          "program_url": "https://www.sfu.ca/fass/undergrad/advising-and-resources/plan-your-program/ba-majors-minors.html",
+          "majors_available": [
+            "Anthropology", "Cognitive Science", "Communication",
+            "Criminology", "Economics", "English",
+            "French", "Gender, Sexuality, and Women's Studies",
+            "Global Asia", "Global Humanities", "Gerontology",
+            "Hellenic Studies", "History", "Indigenous Studies",
+            "International Studies", "Labour Studies", "Linguistics",
+            "Philosophy", "Political Science", "Psychology",
+            "Sociology", "World Literature"
+          ],
+          "joint_majors_available": [
+            "Anthropology and Archaeology", "Anthropology and Communication",
+            "Anthropology and Criminology", "Business and Economics",
+            "Business and Psychology", "Computing Science and Linguistics",
+            "Criminology and Psychology", "Criminology and Sociology",
+            "English and Communication", "English and History",
+            "Political Science and Economics"
+          ],
+          "career_outcomes": ["Policy Analyst", "Social Worker", "Researcher", "Journalist", "Educator", "Community Developer"],
+          "tuition": {
+            "student_type": "international",
+            "currency": "CAD",
+            "per_credit_amount": 1214.31,
+            "yearly_estimate": 36429,
+            "yearly_with_fees_estimate": 37442,
+            "total_program_estimate": 149768,
+            "academic_year": "2025-2026",
+            "notes": "Basic per-unit rate for international students who entered 2024/25 or later. 30 units per year (10 courses over 2 terms). Yearly with fees includes supplementary fees and transit pass. Co-op term fee: $913.80.",
+            "source_url": "https://www.sfu.ca/students/calendar/2026/summer/fees-and-regulations/tuition-fees.html"
+          },
+          "requirements": [
+            {
+              "type": "ielts",
+              "value": "6.5 overall, no part less than 6.0 (IELTS One Skill Retake not accepted)",
+              "ielts_overall": 6.5,
+              "ielts_min_band": 6.0,
+              "source_url": "https://www.sfu.ca/students/admission/admission-requirements/english-language-requirement.html"
+            },
+            {
+              "type": "toefl",
+              "value": "88 overall, no part less than 20 — internet-based test",
+              "toefl_ibt": 88,
+              "toefl_min_section": 20,
+              "source_url": "https://www.sfu.ca/students/admission/admission-requirements/english-language-requirement.html"
+            },
+            {
+              "type": "pte",
+              "value": "Overall 65, minimum 60 in each Communicative Skill (Listening, Reading, Speaking, Writing)",
+              "pte_overall": 65,
+              "pte_min_section": 60,
+              "source_url": "https://www.sfu.ca/students/admission/admission-requirements/english-language-requirement.html"
+            },
+            {
+              "type": "cael",
+              "value": "Overall 70, no part less than 60",
+              "cael_overall": 70,
+              "cael_min_section": 60,
+              "source_url": "https://www.sfu.ca/students/admission/admission-requirements/english-language-requirement.html"
+            },
+            {
+              "type": "cambridge",
+              "value": "Overall 176, no part less than 169",
+              "cambridge_score": 176,
+              "cambridge_min_section": 169,
+              "source_url": "https://www.sfu.ca/students/admission/admission-requirements/english-language-requirement.html"
+            },
+            {
+              "type": "duolingo",
+              "value": "Overall 125 — only accepted from countries where no other English proficiency test is available",
+              "det_overall": 125,
+              "notes": "Restricted acceptance — only from countries where no other test is available",
+              "source_url": "https://www.sfu.ca/students/admission/admission-requirements/english-language-requirement.html"
+            },
+            {
+              "type": "gpa",
+              "value": "Minimum 2.0 CGPA required; competitive admission varies by program",
+              "min_gpa": null,
+              "source_url": "https://www.sfu.ca/students/calendar/2026/summer/fees-and-regulations/admission.html"
+            },
+            {
+              "type": "application_deadline",
+              "value": "January 31 (Fall intake); other intakes vary",
+              "source_url": "https://www.sfu.ca/students/admission/apply/timeline-and-evaluation.html"
+            },
+            {
+              "type": "application_fee",
+              "value": "Listed under Special Fees in SFU Calendar",
+              "source_url": "https://www.sfu.ca/students/calendar/2026/summer/fees-and-regulations/tuition-fees.html"
+            }
+          ]
+        }
+      ],
+      "living_costs": {
+        "yearly_estimate": 17382,
+        "monthly_estimate": 1449,
+        "housing_monthly": 600,
+        "food_monthly": 450,
+        "books_supplies_yearly": 2040,
+        "medical_insurance_yearly": 969,
+        "transportation_notes": "Universal Transit Pass (U-Pass) included in supplementary fees",
+        "notes": "Based on SFU estimated costs for international students: $54,821 total minus $37,442 tuition/fees = ~$17,379 living. Residence with meal plan ~$14,370/year. Off-campus is typically cheaper. Medical insurance $969/year for international students.",
+        "source_url": "https://www.sfu.ca/students/admission/fees-scholarships.html"
+      },
+      "fees": [
+        {
+          "fee_name": "Supplementary Fees (Student Services, Recreation, Athletics, U-Pass, Student Activity)",
+          "amount": 1013,
+          "currency": "CAD",
+          "period": "yearly",
+          "notes": "Approximate combined supplementary fees per year (varies by term)",
+          "source_url": "https://www.sfu.ca/students/calendar/2026/summer/fees-and-regulations/tuition-fees.html"
+        },
+        {
+          "fee_name": "BC Medical Services Plan (International Students)",
+          "amount": 969,
+          "currency": "CAD",
+          "period": "yearly",
+          "notes": "Mandatory basic medical insurance for international students",
+          "source_url": "https://www.sfu.ca/students/admission/fees-scholarships.html"
+        },
+        {
+          "fee_name": "Extended Health and Dental (Student Society)",
+          "amount": 581,
+          "currency": "CAD",
+          "period": "yearly",
+          "notes": "Student society health and dental plan",
+          "source_url": "https://www.sfu.ca/students/admission/fees-scholarships.html"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-04-29",
+  "data_notes": "Tuition is for 2025-2026 for new international students (entered 2024/25 or later). Living cost estimates from SFU admissions page. SFU has three campuses (Burnaby, Surrey, Vancouver) but the primary BA campus is Burnaby. Always verify with official SFU sources."
+}

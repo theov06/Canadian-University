@@ -1,0 +1,55 @@
+{
+  "university": "University of Saskatchewan",
+  "short_name": "USask",
+  "country": "Canada",
+  "official_website": "https://www.usask.ca",
+  "campuses": {
+    "saskatoon": {
+      "name": "University of Saskatchewan",
+      "city": "Saskatoon",
+      "province": "Saskatchewan",
+      "sources": {
+        "ba_program": {
+          "url": "https://programs.usask.ca/arts-and-science/programs.php",
+          "description": "College of Arts and Science degree programs, minors, and certificates",
+          "last_checked": "2026-04-29"
+        },
+        "college_overview": {
+          "url": "https://artsandscience.usask.ca/",
+          "description": "College of Arts and Science homepage",
+          "last_checked": "2026-04-29"
+        },
+        "tuition": {
+          "url": "https://admissions.usask.ca/money/tuition.php",
+          "description": "Tuition estimates by college for domestic and international students",
+          "last_checked": "2026-04-29"
+        },
+        "tuition_rates": {
+          "url": "https://students.usask.ca/money/tuition-fees/undergraduate-tuition.php",
+          "description": "Detailed per-credit-unit tuition rates by category (2025-2026)",
+          "last_checked": "2026-04-29"
+        },
+        "english_proficiency": {
+          "url": "https://admissions.usask.ca/requirements/english-language-proficiency.php",
+          "description": "English language proficiency requirements — IELTS, TOEFL, PTE, CAEL, DET, Cambridge minimums",
+          "last_checked": "2026-04-29"
+        },
+        "admission_requirements": {
+          "url": "https://admissions.usask.ca/requirements/deadlines.php",
+          "description": "Admission requirements and deadlines",
+          "last_checked": "2026-04-29"
+        },
+        "international_requirements": {
+          "url": "https://admissions.usask.ca/requirements/international.php",
+          "description": "International student admission requirements",
+          "last_checked": "2026-04-29"
+        },
+        "apply": {
+          "url": "https://admissions.usask.ca/apply/index.php",
+          "description": "Application portal",
+          "last_checked": "2026-04-29"
+        }
+      }
+    }
+  }
+}

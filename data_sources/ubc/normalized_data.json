@@ -1,0 +1,353 @@
+{
+  "university": {
+    "name": "University of British Columbia",
+    "country": "Canada",
+    "official_website": "https://www.ubc.ca",
+    "description": "A global leader in research and teaching with two campuses in British Columbia. Consistently ranked among the top 3 universities in Canada and top 40 worldwide."
+  },
+  "campuses": [
+    {
+      "name": "UBC Vancouver",
+      "city": "Vancouver",
+      "province": "British Columbia",
+      "city_size": "large",
+      "programs": [
+        {
+          "name": "Bachelor of Arts (General)",
+          "slug": "ba-general-vancouver",
+          "degree_type": "BA",
+          "faculty": "Faculty of Arts",
+          "description": "A flexible 4-year degree with 70+ subject areas spanning humanities, social sciences, languages, and creative arts. Students choose a major and can add minors or a second major.",
+          "duration_years": 4,
+          "total_credits": 120,
+          "arts_credits": 72,
+          "has_coop": true,
+          "program_url": "https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-arts/bachelor-arts",
+          "majors_available": [
+            "African Studies", "Ancient Mediterranean and Near Eastern Studies", "Anthropology",
+            "Arabic", "Archaeology", "Art History, Visual Art, and Theory", "Arts Studies",
+            "Asian Canadian and Asian Migration Studies", "Asian Studies", "Canadian Studies",
+            "Central, Eastern and Northern European Studies", "Chinese", "Cinema Studies",
+            "Cognitive Systems", "Computer Science", "Creative Writing",
+            "Critical Studies in Sexuality", "Danish", "Economics", "English",
+            "Environment and Society", "Environment and Sustainability", "Family Studies",
+            "First Nations and Endangered Languages", "First Nations and Indigenous Studies",
+            "French Language, Literatures and Cultures",
+            "Gender, Race, Sexuality and Social Justice",
+            "Geographic Information Science and Geographical Computation",
+            "Geography", "German Studies", "Global Medieval and Early Modern Studies",
+            "Greek", "Health and Society", "Hebrew", "Hindi", "History", "Human Geography",
+            "Indigenous Land-Based Studies", "Indonesian", "Informatics",
+            "Interdisciplinary Studies", "International Relations",
+            "Italian and Italian Studies", "Japanese", "Jewish Studies",
+            "Journalism and Social Change", "Korean", "Latin", "Latin American Studies",
+            "Law and Society", "Linguistics", "Mathematics", "Middle East Studies",
+            "Modern European Studies", "Museum Studies", "Music", "Nordic Studies",
+            "Philosophy", "Political Science", "Portuguese",
+            "Program in the Study of Religion", "Psychology", "Punjabi",
+            "Romance Studies", "Sanskrit", "Science Studies",
+            "Slavic and Eastern European Studies", "Sociology", "South Asian Studies",
+            "Spanish", "Speech Sciences", "Swedish", "Theatre",
+            "United States Studies", "Urban Studies", "Urdu", "Visual Art",
+            "Writing and Communication"
+          ],
+          "dual_degree_options": [
+            "Dual Degree in Arts and Science",
+            "Dual Degree in Arts and Applied Science",
+            "Dual Degree: BA + Master of Management",
+            "Dual Degree: BA UBC + Sciences Po"
+          ],
+          "career_outcomes": ["Policy Analyst", "Writer", "Educator", "Researcher", "Communications Specialist", "Social Worker"],
+          "tuition": {
+            "student_type": "international",
+            "currency": "CAD",
+            "per_credit_amount": 1651.62,
+            "yearly_estimate": 49549,
+            "total_program_estimate": 198194,
+            "academic_year": "2025-2026",
+            "notes": "Arts, Fine Arts, and Social Work rate for new students (began 2025S or later). 30 credits per year standard load.",
+            "source_url": "https://consultations.students.ubc.ca/vancouver-international-undergraduate-tuition-2025-26/"
+          },
+          "requirements": [
+            {
+              "type": "ielts",
+              "value": "6.5 overall, no part less than 6.0 (Academic IELTS only)",
+              "ielts_overall": 6.5,
+              "ielts_min_band": 6.0,
+              "source_url": "https://vancouver.calendar.ubc.ca/admissions/english-language-admission-standard/english-language-proficiency-tests"
+            },
+            {
+              "type": "toefl",
+              "value": "90 overall (R:22, L:22, W:21, S:21) — internet-based test, 1-120 scale",
+              "toefl_ibt": 90,
+              "toefl_reading": 22,
+              "toefl_listening": 22,
+              "toefl_writing": 21,
+              "toefl_speaking": 21,
+              "source_url": "https://vancouver.calendar.ubc.ca/admissions/english-language-admission-standard/english-language-proficiency-tests"
+            },
+            {
+              "type": "pte",
+              "value": "Overall 65 (R:60, L:60, W:60, S:60) — Pearson Test of English Academic",
+              "pte_overall": 65,
+              "pte_reading": 60,
+              "pte_listening": 60,
+              "pte_writing": 60,
+              "pte_speaking": 60,
+              "source_url": "https://vancouver.calendar.ubc.ca/admissions/english-language-admission-standard/english-language-proficiency-tests"
+            },
+            {
+              "type": "duolingo",
+              "value": "Overall 125 (R:115, L:115, W:120, S:120) — Duolingo English Test",
+              "det_overall": 125,
+              "det_reading": 115,
+              "det_listening": 115,
+              "det_writing": 120,
+              "det_speaking": 120,
+              "source_url": "https://vancouver.calendar.ubc.ca/admissions/english-language-admission-standard/english-language-proficiency-tests"
+            },
+            {
+              "type": "cael",
+              "value": "Overall 70 — Canadian Academic English Language Assessment",
+              "cael_overall": 70,
+              "source_url": "https://vancouver.calendar.ubc.ca/admissions/english-language-admission-standard/english-language-proficiency-tests"
+            },
+            {
+              "type": "cambridge",
+              "value": "180 — B2 First, C1 Advanced, or C2 Proficiency",
+              "cambridge_score": 180,
+              "source_url": "https://vancouver.calendar.ubc.ca/admissions/english-language-admission-standard/english-language-proficiency-tests"
+            },
+            {
+              "type": "test_validity",
+              "value": "Tests taken more than two years prior to application will not be considered. Minimum scores must be achieved in a single sitting.",
+              "source_url": "https://vancouver.calendar.ubc.ca/admissions/english-language-admission-standard/english-language-proficiency-tests"
+            },
+            {
+              "type": "gpa",
+              "value": "Competitive admission; no fixed minimum published for Arts",
+              "min_gpa": null,
+              "source_url": "https://you.ubc.ca/applying-ubc/requirements/"
+            },
+            {
+              "type": "application_deadline",
+              "value": "January 15",
+              "source_url": "https://vancouver.calendar.ubc.ca/admissions/undergraduate-application-and-document-deadlines"
+            },
+            {
+              "type": "application_fee",
+              "value": "CAD $120.00",
+              "amount": 120,
+              "source_url": "https://vancouver.calendar.ubc.ca/admissions/undergraduate-admission-procedures"
+            }
+          ]
+        }
+      ],
+      "living_costs": {
+        "yearly_estimate": 21600,
+        "monthly_estimate": 1800,
+        "housing_monthly": 1100,
+        "food_monthly": 400,
+        "transport_monthly": 100,
+        "other_monthly": 200,
+        "notes": "Estimates based on UBC financial planning resources and Vancouver cost of living data. Housing assumes shared off-campus accommodation. On-campus residence ranges from ~$7,500-$14,000/year. U-Pass transit included in student fees.",
+        "source_url": "https://you.ubc.ca/financial-planning/cost/"
+      },
+      "fees": [
+        {
+          "fee_name": "Student Fees (AMS, Athletics, U-Pass, etc.)",
+          "amount": 1800,
+          "currency": "CAD",
+          "period": "yearly",
+          "notes": "Approximate combined student fees including AMS, athletics, U-Pass, health/dental plan",
+          "source_url": "https://vancouver.calendar.ubc.ca/fees/program-course-and-faculty-fees"
+        },
+        {
+          "fee_name": "International Student Health Insurance (iMED)",
+          "amount": 1050,
+          "currency": "CAD",
+          "period": "yearly",
+          "notes": "Mandatory basic medical insurance for international students",
+          "source_url": "https://students.ubc.ca/health/health-insurance"
+        }
+      ]
+    },
+    {
+      "name": "UBC Okanagan",
+      "city": "Kelowna",
+      "province": "British Columbia",
+      "city_size": "medium",
+      "programs": [
+        {
+          "name": "Bachelor of Arts (General)",
+          "slug": "ba-general-okanagan",
+          "degree_type": "BA",
+          "faculty": "Faculty of Arts and Social Sciences",
+          "description": "A 4-year degree requiring 120 credits including 21 credits across five foundational focus areas: communication, critical thinking, creativity, scientific literacy or numeracy, and Indigenous content. Smaller campus with more personalized instruction.",
+          "duration_years": 4,
+          "total_credits": 120,
+          "arts_credits": 48,
+          "has_coop": true,
+          "program_url": "https://okanagan.calendar.ubc.ca/faculties-schools-and-colleges/faculty-arts-and-social-sciences/bachelor-arts-programs",
+          "majors_available": [
+            "Anthropology",
+            "Art History and Visual Culture",
+            "Communications and Rhetoric",
+            "Computer Science",
+            "Creative Writing",
+            "Cultural Studies",
+            "Economics",
+            "English",
+            "French",
+            "Gender, Women and Sexuality Studies",
+            "General Studies",
+            "Geography",
+            "History",
+            "Indigenous Studies",
+            "International Relations",
+            "Languages",
+            "Mathematics",
+            "Philosophy",
+            "Philosophy, Politics, and Economics (PPE)",
+            "Political Science",
+            "Psychology",
+            "Sociology",
+            "Spanish"
+          ],
+          "minors_available": [
+            "Management",
+            "Theatre"
+          ],
+          "additional_programs": [
+            "Co-operative Education Program",
+            "Dual Degree: BA + Master of Management"
+          ],
+          "career_outcomes": ["Policy Analyst", "Writer", "Educator", "Researcher", "Community Developer", "Cultural Liaison"],
+          "tuition": {
+            "student_type": "international",
+            "currency": "CAD",
+            "per_credit_amount": 1651.62,
+            "yearly_estimate": 49549,
+            "total_program_estimate": 198194,
+            "academic_year": "2025-2026",
+            "notes": "Arts and Fine Arts rate for new students (began 2025S or later). 30 credits per year standard load.",
+            "source_url": "https://consultations.students.ubc.ca/okanagan-international-undergraduate-tuition-2025-26/"
+          },
+          "requirements": [
+            {
+              "type": "ielts",
+              "value": "6.5 overall, no part less than 6.0 (Academic IELTS only)",
+              "ielts_overall": 6.5,
+              "ielts_min_band": 6.0,
+              "source_url": "https://okanagan.calendar.ubc.ca/admissions/english-language-admission-standard/english-language-proficiency-tests-and-programs"
+            },
+            {
+              "type": "toefl",
+              "value": "90 overall (R:22, L:22, W:21, S:21) — internet-based test, 1-120 scale",
+              "toefl_ibt": 90,
+              "toefl_reading": 22,
+              "toefl_listening": 22,
+              "toefl_writing": 21,
+              "toefl_speaking": 21,
+              "source_url": "https://okanagan.calendar.ubc.ca/admissions/english-language-admission-standard/english-language-proficiency-tests-and-programs"
+            },
+            {
+              "type": "pte",
+              "value": "Overall 65 (R:60, L:60, W:60, S:60) — Pearson Test of English Academic",
+              "pte_overall": 65,
+              "pte_reading": 60,
+              "pte_listening": 60,
+              "pte_writing": 60,
+              "pte_speaking": 60,
+              "source_url": "https://okanagan.calendar.ubc.ca/admissions/english-language-admission-standard/english-language-proficiency-tests-and-programs"
+            },
+            {
+              "type": "duolingo",
+              "value": "Overall 125 (R:115, L:115, W:120, S:120) — Duolingo English Test",
+              "det_overall": 125,
+              "det_reading": 115,
+              "det_listening": 115,
+              "det_writing": 120,
+              "det_speaking": 120,
+              "source_url": "https://okanagan.calendar.ubc.ca/admissions/english-language-admission-standard/english-language-proficiency-tests-and-programs"
+            },
+            {
+              "type": "cael",
+              "value": "Overall 70 — Canadian Academic English Language Assessment",
+              "cael_overall": 70,
+              "source_url": "https://okanagan.calendar.ubc.ca/admissions/english-language-admission-standard/english-language-proficiency-tests-and-programs"
+            },
+            {
+              "type": "cambridge",
+              "value": "180 — B2 First, C1 Advanced, or C2 Proficiency",
+              "cambridge_score": 180,
+              "source_url": "https://okanagan.calendar.ubc.ca/admissions/english-language-admission-standard/english-language-proficiency-tests-and-programs"
+            },
+            {
+              "type": "okanagan_college_eap",
+              "value": "Okanagan College English for Academic Purposes Level 4 (completion of EAPD 030 and either EAPS 030 or both EAPW 030 and EAPR 030, with 70%+ in each course)",
+              "source_url": "https://okanagan.calendar.ubc.ca/admissions/english-language-admission-standard/english-language-proficiency-tests-and-programs"
+            },
+            {
+              "type": "english_foundation_program",
+              "value": "UBC Okanagan English Foundation Program (EAP_O 103 and EAP_O 104) available for students who don't meet direct entry requirements",
+              "source_url": "https://okanagan.calendar.ubc.ca/admissions/english-language-admission-standard/english-language-proficiency-tests-and-programs"
+            },
+            {
+              "type": "test_validity",
+              "value": "Tests taken more than two years prior to application will not be considered. Minimum scores must be achieved in a single sitting.",
+              "source_url": "https://okanagan.calendar.ubc.ca/admissions/english-language-admission-standard/english-language-proficiency-tests-and-programs"
+            },
+            {
+              "type": "gpa",
+              "value": "Minimum 67% average required; higher for competitive programs",
+              "min_gpa": null,
+              "source_url": "https://okanagan.calendar.ubc.ca/admissions/applicants-following-bcyukon-secondary-school-curriculum/minimum-academic-qualifications"
+            },
+            {
+              "type": "application_deadline",
+              "value": "March 31 (extended for 2026)",
+              "source_url": "https://you.ubc.ca/applying-ubc/dates-deadlines/"
+            },
+            {
+              "type": "application_fee",
+              "value": "CAD $120.00",
+              "amount": 120,
+              "source_url": "https://okanagan.calendar.ubc.ca/fees/application-and-administrative-fees"
+            }
+          ]
+        }
+      ],
+      "living_costs": {
+        "yearly_estimate": 15600,
+        "monthly_estimate": 1300,
+        "housing_monthly": 800,
+        "food_monthly": 300,
+        "transport_monthly": 50,
+        "other_monthly": 150,
+        "notes": "Kelowna has significantly lower living costs than Vancouver. Housing assumes shared off-campus accommodation. On-campus residence available. U-Pass included in student fees.",
+        "source_url": "https://you.ubc.ca/financial-planning/cost/"
+      },
+      "fees": [
+        {
+          "fee_name": "Student Fees (SUO, Athletics, U-Pass, etc.)",
+          "amount": 1600,
+          "currency": "CAD",
+          "period": "yearly",
+          "notes": "Approximate combined student fees including SUO, athletics, U-Pass, health/dental plan",
+          "source_url": "https://okanagan.calendar.ubc.ca/fees/program-course-and-faculty-fees"
+        },
+        {
+          "fee_name": "International Student Health Insurance (iMED)",
+          "amount": 1050,
+          "currency": "CAD",
+          "period": "yearly",
+          "notes": "Mandatory basic medical insurance for international students",
+          "source_url": "https://students.ubc.ca/health/health-insurance"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-04-29",
+  "data_notes": "All tuition figures are for the 2025-2026 academic year for new international students beginning 2025S or later. Living cost estimates are approximate and vary by lifestyle. Always verify with official UBC sources before making financial decisions."
+}
