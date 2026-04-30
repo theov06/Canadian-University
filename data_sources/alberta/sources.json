@@ -1,0 +1,21 @@
+{
+  "university": "University of Alberta",
+  "short_name": "UAlberta",
+  "country": "Canada",
+  "official_website": "https://www.ualberta.ca",
+  "campuses": {
+    "edmonton": {
+      "name": "University of Alberta",
+      "city": "Edmonton",
+      "province": "Alberta",
+      "sources": {
+        "ba_program": { "url": "https://www.ualberta.ca/en/arts/programs/undergraduate-programs/bachelor-of-arts.html", "description": "BA program overview", "last_checked": "2026-04-29" },
+        "programs": { "url": "https://www.ualberta.ca/en/arts/programs/undergraduate-programs/index.html", "description": "Faculty of Arts undergraduate programs", "last_checked": "2026-04-29" },
+        "tuition": { "url": "https://www.ualberta.ca/en/admissions/undergraduate/tuition-and-scholarships/tuition/index.html", "description": "Tuition information", "last_checked": "2026-04-29" },
+        "cost_calculator": { "url": "https://www.ualberta.ca/en/admissions/undergraduate/tuition-and-scholarships/cost-calculator/index.html", "description": "Cost calculator", "last_checked": "2026-04-29" },
+        "admissions": { "url": "https://www.ualberta.ca/en/admissions/undergraduate/admission/index.html", "description": "Admissions", "last_checked": "2026-04-29" },
+        "english_requirements": { "url": "https://www.ualberta.ca/en/admissions/how-to-apply/admission-requirements/language-requirements/index.html", "description": "English language proficiency requirements", "last_checked": "2026-04-29" }
+      }
+    }
+  }
+}

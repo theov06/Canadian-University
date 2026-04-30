@@ -1,0 +1,38 @@
+{
+  "university": {
+    "name": "Southern Alberta Institute of Technology",
+    "short_name": "SAIT",
+    "country": "Canada",
+    "official_website": "https://www.sait.ca",
+    "description": "A leading polytechnic in Calgary offering hands-on bachelor's degrees in business, technology, construction, and hospitality. #2 ranked business school in Canada (CEOWORLD 2025). 89% graduate employment rate."
+  },
+  "campuses": [
+    {
+      "name": "SAIT",
+      "city": "Calgary",
+      "province": "Alberta",
+      "city_size": "large",
+      "programs": [
+        { "name": "Bachelor of Business Administration", "slug": "bba-sait", "degree_type": "BBA", "description": "4-year BBA with majors in Accounting, Financial Services, HR, Management, Marketing, and Supply Chain. #2 ranked business school in Canada.", "has_coop": true, "program_url": "https://www.sait.ca/programs-and-courses/degrees/bachelor-of-business-administration-accounting" },
+        { "name": "Bachelor of Science Construction Project Management", "slug": "bsc-construction-sait", "degree_type": "BSc", "description": "4-year degree in construction management. Accredited by CIQS and PMI-GAC.", "has_coop": true, "program_url": "https://www.sait.ca/degrees" },
+        { "name": "Bachelor of Hospitality and Tourism Management", "slug": "bhtm-sait", "degree_type": "BHTM", "description": "4-year degree at the #1 ranked Hospitality school in Canada. Prepares for managerial and entrepreneurial roles.", "has_coop": true, "program_url": "https://www.sait.ca/degrees" },
+        { "name": "Bachelor of Applied Business Administration", "slug": "baba-sait", "degree_type": "BABA", "description": "Applied business degree preparing for CPA designation with practice knowledge in taxation, accounting, auditing, and leadership.", "has_coop": true, "program_url": "https://www.sait.ca/degrees" },
+        { "name": "Bachelor of Applied Technology - GIS", "slug": "bat-gis-sait", "degree_type": "BAT", "description": "Geographic Information Systems degree for one of the fastest growing IT sectors.", "has_coop": true, "program_url": "https://www.sait.ca/degrees" },
+        { "name": "Bachelor of Applied Technology - Petroleum Engineering", "slug": "bat-peteng-sait", "degree_type": "BAT", "description": "Petroleum engineering degree covering exploration, economic analysis, and facilities design.", "has_coop": true, "program_url": "https://www.sait.ca/degrees" },
+        { "name": "Bachelor of Technology - Cyber Security", "slug": "btech-cyber-sait", "degree_type": "BTech", "description": "Learn to respond to and mitigate cyber threats with cutting-edge technologies.", "has_coop": true, "program_url": "https://www.sait.ca/degrees" },
+        { "name": "Bachelor of Technology - Software Development", "slug": "btech-software-sait", "degree_type": "BTech", "description": "Full-stack development skills for improving business processes and user interactions.", "has_coop": true, "program_url": "https://www.sait.ca/degrees" }
+      ],
+      "requirements": {
+        "ielts": { "value": "6.0 in each skill (Academic IELTS)", "ielts_min_band": 6.0 },
+        "toefl": { "value": "New scale: 4.5 total, 4.5 each. Old scale (before Jan 21, 2026): 20 each", "toefl_min_section": 20 },
+        "pte": { "value": "53 minimum", "pte_overall": 53 },
+        "duolingo": { "value": "115 minimum, 95 each subscore", "det_overall": 115 },
+        "cael": { "value": "60 overall, 60 each", "cael_overall": 60 },
+        "cambridge": { "value": "169 each skill", "cambridge_score": 169 },
+        "application_fee": { "value": "$175 international", "amount": 175 }
+      },
+      "living_costs": { "yearly_estimate": 18000, "monthly_estimate": 1500, "source_url": "https://www.sait.ca/tuition-and-financial-aid/tuition-and-fees" }
+    }
+  ],
+  "last_updated": "2026-04-29"
+}

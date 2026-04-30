@@ -1,0 +1,55 @@
+{
+  "university": {
+    "name": "University of Calgary",
+    "short_name": "UCalgary",
+    "country": "Canada",
+    "official_website": "https://www.ucalgary.ca",
+    "description": "A top-five Canadian research university in Calgary, Alberta. Known for entrepreneurial spirit, strong co-op programs, and a guaranteed maximum tuition policy for international students."
+  },
+  "campuses": [
+    {
+      "name": "University of Calgary",
+      "city": "Calgary",
+      "province": "Alberta",
+      "city_size": "large",
+      "programs": [
+        {
+          "name": "Bachelor of Arts (General)",
+          "slug": "ba-general-ucalgary",
+          "degree_type": "BA",
+          "faculty": "Faculty of Arts",
+          "description": "A 4-year degree with a wide range of majors in humanities, social sciences, and creative arts. UCalgary offers a guaranteed maximum tuition policy for international students, meaning your total degree cost will never exceed the amount in your admission letter.",
+          "duration_years": 4,
+          "total_credits": 120,
+          "has_coop": true,
+          "program_url": "https://www.ucalgary.ca/future-students/undergraduate/explore-programs/bachelor-arts",
+          "career_outcomes": ["Policy Analyst", "Writer", "Educator", "Researcher", "Communications Specialist", "Social Worker"],
+          "tuition": {
+            "student_type": "international",
+            "currency": "CAD",
+            "per_3unit_course": 2684.88,
+            "yearly_estimate": 26849,
+            "total_program_estimate": 107396,
+            "academic_year": "2025-2026",
+            "notes": "International Rate Group A ($2,684.88 per 3-unit course). 10 courses/year (30 units). UCalgary guarantees maximum tuition for international students — total cost won't exceed admission letter amount.",
+            "source_url": "https://www.ucalgary.ca/pubs/calendar/current/print_p-1-1.html"
+          },
+          "requirements": [
+            { "type": "ielts", "value": "6.5 overall, no band below 6.0", "ielts_overall": 6.5, "ielts_min_band": 6.0, "source_url": "https://ucalgary.ca/future-students/undergraduate/admissions/how-to-apply/english-language-requirements" },
+            { "type": "toefl", "value": "86 overall (iBT)", "toefl_ibt": 86, "source_url": "https://ucalgary.ca/future-students/undergraduate/admissions/how-to-apply/english-language-requirements" },
+            { "type": "gpa", "value": "Competitive admission; varies by program", "min_gpa": null, "source_url": "https://ucalgary.ca/future-students/undergraduate/admissions/requirements" },
+            { "type": "application_deadline", "value": "March 1 (Fall intake)", "source_url": "https://ucalgary.ca/future-students/undergraduate/admissions/requirements" },
+            { "type": "application_fee", "value": "CAD $145 (international)", "amount": 145, "source_url": "https://ucalgary.ca/future-students/undergraduate/admissions/requirements" }
+          ]
+        }
+      ],
+      "living_costs": {
+        "yearly_estimate": 18000,
+        "monthly_estimate": 1500,
+        "notes": "Calgary living costs. Estimates based on typical student budgets.",
+        "source_url": "https://www.ucalgary.ca/registrar/finances/tuition-and-fees/undergraduate-student-cost-estimator"
+      }
+    }
+  ],
+  "last_updated": "2026-04-29"
+}

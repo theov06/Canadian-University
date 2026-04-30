@@ -1,0 +1,20 @@
+{
+  "university": "Southern Alberta Institute of Technology",
+  "short_name": "SAIT",
+  "country": "Canada",
+  "official_website": "https://www.sait.ca",
+  "campuses": {
+    "calgary": {
+      "name": "SAIT",
+      "city": "Calgary",
+      "province": "Alberta",
+      "sources": {
+        "degrees": { "url": "https://www.sait.ca/degrees", "description": "All SAIT bachelor degree programs", "last_checked": "2026-04-29" },
+        "programs": { "url": "https://www.sait.ca/programs-and-courses", "description": "All programs and courses", "last_checked": "2026-04-29" },
+        "tuition": { "url": "https://www.sait.ca/tuition-and-financial-aid/tuition-and-fees", "description": "Tuition and fees", "last_checked": "2026-04-29" },
+        "admissions": { "url": "https://www.sait.ca/admissions", "description": "Admissions", "last_checked": "2026-04-29" },
+        "english_proficiency": { "url": "https://www.sait.ca/admissions/meeting-requirements/english-proficiency", "description": "English proficiency requirements", "last_checked": "2026-04-29" }
+      }
+    }
+  }
+}

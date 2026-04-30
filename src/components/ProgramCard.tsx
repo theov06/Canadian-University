@@ -4,6 +4,7 @@ import Link from "next/link";
 import { motion } from "framer-motion";
 import { ProgramCard as ProgramCardType } from "@/types";
 import { Tag } from "./Tag";
+import { useTranslation } from "./LanguageProvider";
 
 interface Props {
   program: ProgramCardType;
@@ -14,6 +15,7 @@ interface Props {
 
 export function ProgramCard({ program, onCompare, isComparing, index = 0 }: Props) {
   const totalYearly = program.tuition_yearly_international + program.estimated_monthly_living_cost * 12;
+  const { t } = useTranslation();
   const typeTag = program.institution_type === "college" ? "tag-college" : program.institution_type === "polytechnic" ? "tag-polytechnic" : "tag-university";
 
   return (
@@ -32,7 +34,7 @@ export function ProgramCard({ program, onCompare, isComparing, index = 0 }: Prop
               </span>
               {program.is_transfer && <span className="tag-transfer text-[9px] font-semibold uppercase tracking-widest px-1.5 py-0.5 rounded">Transfer</span>}
             </div>
-            <Link href={`/program/${program.id}`} className="font-semibold text-sm hover:text-violet-400 transition-colors block truncate">
+            <Link href={`/program/${program.id}`} className="font-semibold text-sm hover:text-[var(--accent)] transition-colors block truncate">
               {program.program_name}
             </Link>
             <p className="text-xs text-[var(--text-secondary)] truncate">{program.university_name} · {program.city}</p>
@@ -41,21 +43,21 @@ export function ProgramCard({ program, onCompare, isComparing, index = 0 }: Prop
             <button
               onClick={() => onCompare(program.id)}
               className={`shrink-0 text-[10px] px-2.5 py-1 rounded-md border transition-all ${
-                isComparing ? "bg-violet-500/20 text-violet-300 border-violet-500/30" : "border-[var(--border)] text-[var(--text-muted)] hover:border-violet-500/20 hover:text-violet-400"
+                isComparing ? "bg-[var(--accent)]/20 text-[var(--accent)] border-[var(--accent)]/30" : "border-[var(--border)] text-[var(--text-muted)] hover:border-[var(--accent)]/20 hover:text-[var(--accent)]"
               }`}
             >
-              {isComparing ? "Selected" : "Compare"}
+              {isComparing ? t("card.selected") : t("card.compare")}
             </button>
           )}
         </div>
 
         <div className="grid grid-cols-3 gap-3 text-xs mb-3">
           <div>
-            <span className="text-[var(--text-muted)] text-[10px] block">Tuition/yr</span>
-            <span className="font-semibold text-violet-300">${program.tuition_yearly_international.toLocaleString()}</span>
+            <span className="text-[var(--text-muted)] text-[10px] block">{t("card.tuition_yr")}</span>
+            <span className="font-semibold text-[var(--accent)]">${program.tuition_yearly_international.toLocaleString()}</span>
           </div>
           <div>
-            <span className="text-[var(--text-muted)] text-[10px] block">Total/yr</span>
+            <span className="text-[var(--text-muted)] text-[10px] block">{t("card.total_yr")}</span>
             <span className="font-semibold">${totalYearly.toLocaleString()}</span>
           </div>
           <div>

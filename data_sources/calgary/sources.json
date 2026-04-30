@@ -1,0 +1,23 @@
+{
+  "university": "University of Calgary",
+  "short_name": "UCalgary",
+  "country": "Canada",
+  "official_website": "https://www.ucalgary.ca",
+  "campuses": {
+    "calgary": {
+      "name": "University of Calgary",
+      "city": "Calgary",
+      "province": "Alberta",
+      "sources": {
+        "ba_program": { "url": "https://www.ucalgary.ca/future-students/undergraduate/explore-programs/bachelor-arts", "description": "Bachelor of Arts program overview", "last_checked": "2026-04-29" },
+        "programs": { "url": "https://www.ucalgary.ca/future-students/undergraduate/explore-programs", "description": "All undergraduate programs", "last_checked": "2026-04-29" },
+        "tuition": { "url": "https://www.ucalgary.ca/pubs/calendar/current/print_p-1-1.html", "description": "Undergraduate tuition rates by faculty", "last_checked": "2026-04-29" },
+        "cost_estimator": { "url": "https://www.ucalgary.ca/registrar/finances/tuition-and-fees/undergraduate-student-cost-estimator", "description": "Undergraduate cost estimator", "last_checked": "2026-04-29" },
+        "tuition_fees": { "url": "https://www.ucalgary.ca/registrar/finances/tuition-and-general-fees", "description": "Tuition and general fees overview", "last_checked": "2026-04-29" },
+        "english_requirements": { "url": "https://ucalgary.ca/future-students/undergraduate/admissions/how-to-apply/english-language-requirements", "description": "English language proficiency requirements", "last_checked": "2026-04-29" },
+        "admissions": { "url": "https://ucalgary.ca/future-students/undergraduate/admissions/requirements", "description": "Admission requirements", "last_checked": "2026-04-29" },
+        "apply": { "url": "https://www.ucalgary.ca/future-students/undergraduate/apply", "description": "Application portal", "last_checked": "2026-04-29" }
+      }
+    }
+  }
+}

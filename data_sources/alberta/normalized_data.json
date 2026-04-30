@@ -1,0 +1,52 @@
+{
+  "university": {
+    "name": "University of Alberta",
+    "short_name": "UAlberta",
+    "country": "Canada",
+    "official_website": "https://www.ualberta.ca",
+    "description": "A top-5 Canadian research university in Edmonton. The Faculty of Arts is one of the largest in western Canada with 40+ departments and programs. International students receive a tuition guarantee."
+  },
+  "campuses": [
+    {
+      "name": "University of Alberta",
+      "city": "Edmonton",
+      "province": "Alberta",
+      "city_size": "medium",
+      "programs": [
+        {
+          "name": "Bachelor of Arts (General)",
+          "slug": "ba-general-ualberta",
+          "degree_type": "BA",
+          "faculty": "Faculty of Arts",
+          "description": "A 4-year degree with 40+ majors in one of western Canada's largest arts faculties. Fee index system with tuition guarantee for international students. Strong research opportunities and co-op options.",
+          "duration_years": 4,
+          "total_credits": 120,
+          "has_coop": true,
+          "program_url": "https://www.ualberta.ca/en/arts/programs/undergraduate-programs/bachelor-of-arts.html",
+          "career_outcomes": ["Policy Analyst", "Writer", "Educator", "Researcher", "Communications Specialist", "Social Worker"],
+          "tuition": {
+            "student_type": "international",
+            "currency": "CAD",
+            "yearly_estimate": 33470,
+            "total_program_estimate": 133880,
+            "academic_year": "2025-2026",
+            "notes": "Fee index system. Most 3-credit courses have fee index 6. International rate varies by cohort year. Tuition guarantee for international students.",
+            "source_url": "https://www.ualberta.ca/en/admissions/undergraduate/tuition-and-scholarships/tuition/index.html"
+          },
+          "requirements": [
+            { "type": "ielts", "value": "6.5 overall, minimum 5.0 per band", "ielts_overall": 6.5, "ielts_min_band": 5.0, "source_url": "https://www.ualberta.ca/en/admissions/how-to-apply/admission-requirements/language-requirements/index.html" },
+            { "type": "toefl", "value": "90 overall, minimum 21 per band", "toefl_ibt": 90, "toefl_min_section": 21, "source_url": "https://www.ualberta.ca/en/admissions/how-to-apply/admission-requirements/language-requirements/index.html" },
+            { "type": "gpa", "value": "Competitive; minimum 70% admission average", "min_gpa": null, "source_url": "https://www.ualberta.ca/en/admissions/undergraduate/admission/index.html" },
+            { "type": "application_deadline", "value": "March 1 (Fall intake)", "source_url": "https://www.ualberta.ca/en/admissions/undergraduate/admission/index.html" }
+          ]
+        }
+      ],
+      "living_costs": {
+        "yearly_estimate": 16800,
+        "monthly_estimate": 1400,
+        "source_url": "https://www.ualberta.ca/en/admissions/undergraduate/tuition-and-scholarships/cost-calculator/index.html"
+      }
+    }
+  ],
+  "last_updated": "2026-04-29"
+}
